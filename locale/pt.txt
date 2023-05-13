@@ -85,4 +85,4 @@ IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
 tour.description = Faça um Tour Virtual e Conheça Nosso Espaço
 
 ### Title
-tour.name = lancheria Se Tu Dix
+tour.name = Lancheria Se Tu Dix
